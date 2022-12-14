@@ -13,8 +13,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-#private issues
-/src/config/private.js
+# private issues
+# /src/config/private.js
 
 # Editor directories and files
 .idea
