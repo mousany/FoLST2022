@@ -36,6 +36,8 @@
 <script>
 // import mainData from "@/assets/data/about.json";
 import { mapGetters, mapMutations } from "vuex";
+import register from "@/assets/data/registration.json"
+
 export default {
   data: () => ({
     // mainData: mainData
@@ -59,6 +61,9 @@ export default {
         this.$vuetify.goTo(0);
         this.setDrawer(false);
         return;
+      }
+      if (item.to === "/registration") {
+        window.open(register.link);
       }
       if (item.to || !item.href) return;
       this.$vuetify.goTo(item.href);

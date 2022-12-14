@@ -194,8 +194,8 @@
         "id": "114",
         "name":"Liu Bo",
         "company": {
-            "designation":"Institut Pasteur of Shanghai, CAS",
-            "name":""
+            "designation":"",
+            "name":"Institut Pasteur of Shanghai, CAS"
         },
         "image": "LIU, Bo.jpg",
         "bio": "",
@@ -419,7 +419,7 @@
         "name":"Jiang, Ge",
         "company": {
             "designation":"",
-            "name":""
+            "name":"ShanghaiTech University"
         },
         "image": "jiangge.webp",
         "bio": "",
