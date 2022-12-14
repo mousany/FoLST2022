@@ -2,168 +2,170 @@
     {
         "id": "101",
         "slide":"",
-        "title":"Metabolism and Chemical Biology",
-        "description":"13:20-14:20 Session I: Metabolism and Chemical Biology\n13:20-13:40 [T01] ZHAO, Shimin | The generation and transmission of metabolites signals\n13:40-14:00 [T02] JIANG, Xuefeng | Life-related sulfur chemistry\n14:00-14:20 [T03] LUO, Zonghua | PET imaging of sphingosine-1-phosphate receptor 1 in multiple sclerosis",
+        "title":"Registration",
+        "description":"Registration",
         "track": "General",
         "link": "",
         "format": "Day 1",
         "date": "",
-        "chairs": "Bai, Fang & Horng, Tiffany",
+        "chairs": "",
         "speakers": [
-            132,112,117
+            
         ]
     },
     {
         "id": "102",
         "slide":"",
-        "title":"Viruses and Immunity",
-        "description":"14:50-16:20 Session II: Viruses and Immunity\n14:50-15:10 [T04] WANG, Xinquan | Structural insights into the infection, inhibition and evolution of the highly pathogenic human coronaviruses\n15:10-15:30 [T05] WANG, Quan | SARS-CoV-2 RNA polymerase: structure, function and inhibition\n15:30-15:50 [T06] CHEN, Liang | Immune memory in individuals convalescing from COVID-19\n15:50-16:10 [T07] RUDRA, Dipayan | Insights on the split personality of regulatory T cells and its implications for anti-tumor immunity\n16:10-16:20 [T08] ZHENG, Nan | 给细胞拍摄高清纪录片——无损、高清、实时多维度成像（卡尔蔡司）",
+        "title":"Posters Session",
+        "description":"Posters Session",
         "track": "General",
         "link": "",
         "format": "Day 1",
         "date": "",
-        "chairs": "Xu, Wenqing & Zhong, Guisheng",
+        "chairs": "Guan Jisong & Zhao Suwen",
         "speakers": [
-            123,121,104,107,138
+            
         ]
     },
     {
         "id": "103",
         "slide":"",
-        "title":"Neuroscience",
-        "description":"08:30-10:10 Session IV: Neuroscience\n08:30-08:50 [T09] BI, Guoqiang | Whole-brain mapping with ultrahigh-speed VISoR imaging: from mouse to monkey\n08:50-09:10 [T10] LIU, Cong | Pathological protein aggregation in neurodegenerative diseases\n09:10-09:30 [T11] YANG, Yang | Synaptic memory engram revealed by large-scale electron microscopy\n09:30-09:50 [T12] ZOU, Yan | P5A ATPase regulates protein translocation for neuronal patterning\n09:50-10:10 [T13] ZHANG, Jie | Neuronal cell cycle regulation in Alzheimer’s disease",
+        "title":"Opening Remarks",
+        "description":"Opening remarks",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": " Hu, Ji & Tong, Xiajing",
+        "chairs": "",
         "speakers": [
-            102,113,126,137,128
+            128
         ]
     },
     {
         "id": "104",
         "slide":"",
-        "title":"Regulation of Gene Expression",
-        "description":"10:30-12:00 Session V: Regulation of Gene Expression\n10:30-10:50 [T14] YANG, Li | Decode complex gene expression from various types of RNA-seq datasets\n10:50-11:10 [T15] ZHOU, Jinqiu | Single-chromosome fission yeast models reveal the configuration robustness of a functional genome\n11:10-11:30 [T16] WANG, Yangming | RNA based control of CRISPR and its applications\n11:30-11:50 [T17] LIU, Rujuan | A dual role of human tRNA methyltransferase hTrmt13 in regulating translation and transcription\n11:50-12:00 [T18] ZHU, Xingping | 斗转星移，胞罗万像——多模态超分辨成像技术介绍（奥林巴斯）",
+        "title":"Introduction to life science complex @ShanghaiTech",
+        "description":"Introduction to life science complex @ShanghaiTech",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "Chen, Jia & Ma, Hanhui",
+        "chairs": "",
         "speakers": [
-            125,135,124,116,139
+            129
         ]
     },
     {
         "id": "105",
         "slide":"",
-        "title":"Precision Medicine",
-        "description":"13:20-14:40 Session VI: Precision Medicine\n13:20-13:40 [T19] ZHU, Jidong | Drugging the “undruggable” proteins by regulating the dynamic liquid-liquid phase separation\n13:40-14:00 [T20] SHI, Leming | Quality control and standardization of omics for precision medicine\n14:00-14:20 [T21] LIU, Jia | Surfaceome CRISPR screen and the application in dissecting host-pathogen Interactions\n14:20-14:40 [T22] GAO, Dong | The cell origin and lineage plasticity of prostate cancer",
+        "title":"Developmental and Regenerative Biology",
+        "description":"08:50-10:10 Session I: Developmental and Regenerative Biology\n08:50-09:10 [T01] DING, Huihua | From biobank to biomarker - bridging the gap between bench and bedside in SLE\n09:10-09:30 [T02] JI, Hongbin | Therapeutic targeting Mevalonate-Geranylgeranyl Diphosphate Pathway with Statins Overcomes Chemotherapy-resistance in Small Cell Lung Cancer\n09:30-09:50 [T03] RONG, Yikang | The biological function of a conserved but poorly understood RNA modification\n09:50-10:10 [T04] TANG, Nan | The driving force of alveolar development, regeneration, and fibrosis",
         "link": "",
         "track": "General",
         "format": "Day 2",
         "date": "",
-        "chairs": "Hu, Ji & Tong, Xiajing",
+        "chairs": "Zhu Chouwen & Zhu Huanhu",
         "speakers": [
-            118,136,114,109
+            111, 121, 106, 125
         ]
     },
     {
         "id": "106",
         "slide":"",
-        "title":"Clinical Research and Management",
-        "description":"15:10-16:40 Session VII: Clinical Research and Management\n15:10-15:30 [T23] DING, Xueying | Management and quality control of clinical trials\n15:30-15:50 [T24] CHEN, Yifei | Non-clinical assessment for medical products containing genetically modified cells: from a perspective of drug regulatory science\n15:50-16:10 [T25] YU, Lingli | IND 阶段生物制品的注册申报及药学审评\n16:10-16:30 [T26] LIU, Tianshu | The progress and challenges with the application of precised medicine in GI oncology field\n16:30-16:40 [T27] GUO, Haotian | 蛋白表达的系统生物学：为什么蛋白表达不出来？（小熊猫生物）",
+        "title":"Tea Break",
+        "description":"Tea break",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "DAI, Jean & Zhao, Jian",
+        "chairs": "",
         "speakers": [
-            106, 105, 127, 115, 140
+            
         ]
     },
     {
         "id": "107",
         "slide":"",
-        "title":"Structual Biology",
-        "description":"09:00-10:10 Session VIII: Structural Biology\n09:00-09:20 [T28] TIAN, Changlin | Fundamental properties analysis of ion channels: selectivity, gating and inactivation\n09:20-09:40 [T29] ZHAO, Suwen | CORD:Chordata olfactory receptor database\n09:40-10:00 [T30] ZHANG, Qiangfeng | RNA structural systems biology powered by big data and machine intelligence\n10:00-10:10 [T31] WANG, Yuping | BD Rhapsody 单细胞多组学技术创新（碧迪医疗器械）",
+        "title":"Biomedicine and Pharmacology",
+        "description":"10:30-11:50 Session II: Biomedicine and Pharmacology\n10:30-10:50 [T05] DONG, Jiajia | 一种可预测的，高通量的合成方法\n10:50-11:10 [T06] QI, Wei | Targeting PRC2 for cancer treatment\n11:10-11:30 [T07] TAN, Li | Development and application of novel covalent inhibitors using arsenous warheads\n11:30-11:50 [T08] ZENG, Li | The Story of Clinical Candidate HJM353: A Potent, Selective and Orally Bioavailable Embryonic Ectoderm Development (EED) Inhibitor with Robust Anti-tumor Activities",
         "track": "General",
         "link": "",
-        "format": "Day 3",
+        "format": "Day 2",
         "date": "",
-        "chairs": "Liu, Zhijie & Yang, Haitao",
+        "chairs": "Shen Dinggang & Zhao, Jian",
         "speakers": [
-            119,133,130,145
+            120, 123, 116, 110
         ]
     },
     {
         "id": "108",
         "slide":"",
-        "title":"Development and Disease",
-        "description":"13:20-15:30 Session X: Development and Disease\n13:20-13:40 [T32] GAO, Shaorong | Epigenetic regulation of early embryo development and somatic cell reprogramming\n13:40-14:00 [T33] DU, Peng | Capture and maintenance of totipotent stem cell in vitro\n14:00-14:20 [T34] WANG, Wei | Regeneration enhancers and the evolution of regenerative capacities\n14:20-14:40 [T35] ZHOU, Bin | Genetic tracing of cell proliferation in tissue homeostasis and regeneration\n14:40-15:00 [T36] ZHANG, Lei | The roles of hippo signaling in organ development, regeneration, and tumorigenesis\n15:00-15:20 [T37] HUI, Lijian | Cell identity conversion: Liver regeneration and diseases\n15:20-15:30 [T38] YIN, Liang | Maestro 细胞生理电表型分析技术简介（Axion BioSystems）",
+        "title":"Lunch",
+        "description":"Lunch",
         "track": "General",
         "link": "",
-        "format": "Day 3",
+        "format": "Day 2",
         "date": "",
-        "chairs": "Lin, Chao-Po & Zhang, Hui",
-        "speakers": [
-            110,108,122,134,129,111,142
-        ]
-    },
-    {
-        "id": "109",
-        "slide":"",
-        "title":"Translational Research",
-        "description":"16:00-17:20 Session XII: Translational Research\n16:00-16:20 [T39] LI, Huaiyu | 敏捷创业 助力科创企业从0 到1\n16:20-16:40 [T40] WANG, Lijie | 新型碱基编辑系统的构建与应用\n16:40-17:00 [T41] SHEN, Siyu | 做好科研成果转化的赋能者，搭建起连接实验室到临床的桥梁",
-        "track": "General",
-        "link": "",
-        "format": "Day 3",
-        "date": "",
-        "chairs": "Xu, Wenqing & Zhong, Guisheng",
-        "speakers": [
-            103, 120, 131
-        ]
-    },
-    {
-        "id": "110",
-        "slide":"",
-        "title":"Introduction",
-        "description":"13:10-13:20 LIU, Ji-Long | Introduction of life science complex @ShanghaiTech",
-        "track": "General",
-        "link": "",
-        "format": "Day 1",
-        "date": "",
-        "timeDuration": "",
-        "speakers": [
-            143
-        ]
-    },
-    {
-        "id": "111",
-        "slide":"",
-        "title":"Posters Session",
-        "description":"Posters session",
-        "track": "General",
-        "link": "",
-        "format": "Day 1",
-        "date": "",
-        "chairs": "Shen, Wei & Shui, Wenqing",
+        "chairs": "",
         "speakers": [
 
         ]
     },
     {
-        "id": "112",
-        "slide":"",
-        "title":"Opening remarks",
-        "description":"13:00-13:10 JIANG, Ge | Opening remarks",
+        "id": "109",
+        "slide": "",
+        "title":"Molecular and Cellular Biology",
+        "description":"13:20-14:55 Session III: Molecular and Cellular Biology\n13:20-13:40 [T09] FENG, Xinhua | TGF-β Signaling in Cancer: Good, Bad and Ugly\n13:40-14:00 [T10] LI, Bing | Functional Relevance of Transcription Condensates\n14:00-14:20 [T11] LI, Pilong | Programming cell-surface signaling\n14:20-14:40 [T12] YE, Dan | Epigenetics links intermediary metabolism and gene regulation\n14:40-14:55 [T13] | 公司报告",
         "track": "General",
         "link": "",
-        "format": "Day 1",
+        "format": "Day 2",
+        "date": "",
+        "chairs": "Liu, Rujuan & Liu, Zhijie",
+        "speakers": [
+            103, 104, 122, 127
+        ]
+    },
+    {
+        "id": "110",
+        "slide":"",
+        "title":"Tea Break",
+        "description":"Tea break",
+        "track": "General",
+        "link": "",
+        "format": "Day 2",
         "date": "",
         "timeDuration": "",
-        "speakers": [ 144 ]
+        "speakers": [
+        
+        ]
+    },
+    {
+        "id": "111",
+        "slide":"",
+        "title":"Structural Biology",
+        "description":"15:15-16:50 Session IV: Structural Biology\n15:15-15:35 [T14] SHAO, Zhenhua | Allosteric modulation of GPCR signal transduction by small molecules\n15:35-15:55 [T15] Xu, Eric | Hormone receptors: structures, mechanisms and drug discovery\n15:55-16:15 [T16] XU, Fei | A framework for class-A GPCR dimerization\n16:15-16:35 [T17] XU, Wenqing | Controlling Wnt signaling for anti-cancer therapy and regeneration medicine\n16:35-16:50 [T18] | 公司报告",
+        "track": "General",
+        "link": "",
+        "format": "Day 2",
+        "date": "",
+        "chairs": "Shui, Wenjing & Yang, Haitao",
+        "speakers": [
+            124, 126, 117, 118
+        ]
+    },
+    {
+        "id": "112",
+        "slide":"",
+        "title":"Neuroscience",
+        "description":"08:30-10:25 Session V: Neuroscience\n08:30-08:50 [T19] LI, Yuanning | Neural coding and computations underlying natural speech perception across languages\n08:50-09:10 [T20] SHEN, Wei | Central control of body temperature and energy expenditure\n09:10-09:30 [T21] WANG, Liping | Sequence representations in the brain\n09:30-09:50 [T22] XU, Nanjie | Calcium dyshomeostasis and synapse loss in early-stage Alzheimer’s disease\n09:50-10:10 [T23] ZHANG Zhuzhu | Single-cell Studies of Epigenomic Regulations in Brain Circuitry and Disorders\n10:10-10:25 [T24] | 公司报告",
+        "track": "General",
+        "link": "",
+        "format": "Day 3",
+        "date": "",
+        "timeDuration": "",
+        "speakers": [
+            105, 107, 108, 109, 119
+        ]
     },
     {
         "id": "113",
@@ -172,7 +174,7 @@
         "description":"Tea break",
         "track": "General",
         "link": "",
-        "format": "Day 1",
+        "format": "Day 3",
         "date": "",
         "timeDuration": "",
         "speakers": [
@@ -182,20 +184,20 @@
         "id": "114",
         "slide":"",
         "title":"Flash Talks",
-        "description":"Flash talks",
+        "description":"10:45-11:45 Session VI: Flash talks (5 min X 12 talks)",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
-        "chairs": "Xu, Wenqing & Zhong, Guisheng",
+        "chairs": "Zhang, Hui & Zhuang, Min",
         "speakers": [
         ]
     },
     {
         "id": "115",
         "slide":"",
-        "title":"Awards",
-        "description":"17:00-17:20 Awards",
+        "title":"Lunch",
+        "description":"Lunch",
         "track": "General",
         "link": "",
         "format": "Day 3",
@@ -207,14 +209,56 @@
     {
         "id": "116",
         "slide":"",
-        "title":"Closing Remarks",
-        "description":"17:20-17:30 Closing remarks",
+        "title":"Genomics, Proteomics & Bioinformatics",
+        "description":"13:20-13:40 Session VII: Genomics, Proteomics & Bioinformatics\n13:20-13:40 [T25] CHENG, Hong | Nuclear RNA sorting, from a view of nuclear speckles\n13:40-14:00 [T26] HE, Xiangwei | Microhomology-mediated tandem duplications cause genetic instability genome-wide\n14:00-14:20 [T27] LI, Dali | Genome editing for disease modeling and gene therapy\n14:20-14:35 [T28] | 公司报告",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
         "speakers": [
+            102, 112, 113
+        ]
+    },
+    {
+        "id": "117",
+        "slide":"",
+        "title":"Tea Break",
+        "description":"Tea break",
+        "track": "General",
+        "link": "",
+        "format": "Day 3",
+        "date": "",
+        "timeDuration": "",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "118",
+        "slide":"",
+        "title":"Immunology and Metabolism",
+        "description":"14:55-15:55 Session VIII: Immunology and Metabolism\n14:55-15:15 [T29] LIU, Bo | Intracellular Trafficking of Nucleic Acid-sensing TLRs and Inflammation Regulation\n15:15-15:35 [T30] SHAO, Mengle | Targeting Adipose Progenitors in the Treatment of Obesity and Associated Diseases\n15:35-15:55 | Awards",
+        "track": "General",
+        "link": "",
+        "format": "Day 3",
+        "date": "",
+        "timeDuration": "",
+        "speakers": [
+            114, 115
+        ]
+    }, 
+    {
+        "id": "119",
+        "slide":"",
+        "title":"Closing Remarks",
+        "description":"",
+        "track": "General",
+        "link": "",
+        "format": "Day 3",
+        "date": "",
+        "timeDuration": "",
+        "speakers": [
+
         ]
     }
 

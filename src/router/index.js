@@ -10,7 +10,7 @@ Vue.use(VueRouter)
     name: 'Home',
     component: Home,
     meta: {
-      title: 'Home | FoLST2021',
+      title: 'Home | FoLST2022',
       color: 'white'
     }
   },
@@ -19,7 +19,7 @@ Vue.use(VueRouter)
     name: 'Schedule',
     component: () => import(/* webpackChunkName: "agenda" */ '../views/Schedule.vue'),
     meta: {
-      title: 'Schedule | FoLST2021',
+      title: 'Schedule | FoLST2022',
       color: 'white'
     }
   },
@@ -28,7 +28,7 @@ Vue.use(VueRouter)
     name: 'Speakers',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue'),
     meta: {
-      title: 'Speakers | FoLST2021',
+      title: 'Speakers | FoLST2022',
       color: 'white'
     }
   },
@@ -37,7 +37,7 @@ Vue.use(VueRouter)
     name: 'OrganisingCommittee',
     component: () => import('../views/OrganisingCommittee.vue'),
     meta: {
-      title: 'Organising Committee | FoLST2021',
+      title: 'Organising Committee | FoLST2022',
       color: 'white'
     }
   },

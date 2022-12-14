@@ -25,9 +25,9 @@
             color="#0005DF"
             slider-color="#0005DF"
           >
-            <v-tab href="#day1"> December 16 </v-tab>
-            <v-tab href="#day2"> December 17 </v-tab>
-            <v-tab href="#day3"> December 18 </v-tab>
+            <v-tab href="#day1"> December 21 </v-tab>
+            <v-tab href="#day2"> December 22 </v-tab>
+            <v-tab href="#day3"> December 23 </v-tab>
           </v-tabs>
         </v-col>
       </v-row>

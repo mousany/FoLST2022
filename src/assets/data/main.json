@@ -1,5 +1,5 @@
 {
-    "eventname": "FoLST2021",
+    "eventname": "FoLST2022",
     "date": "",
     "time": "",
     "badgeurl": "https://badge.devfestindia.com/",
@@ -10,19 +10,19 @@
     "stats": [
         {
             "name": "Research Institutes",
-            "count": "33+"
+            "count": "17+"
         },
         {
             "name": "Speakers",
-            "count": "36+"
+            "count": "26+"
         },
         {
             "name": "Scientific Sessions",
-            "count": "10+"
+            "count": "8+"
         },
         {
             "name": "Days Full of Fun",
-            "count": "03"
+            "count": "3+"
         }
     ],
     "registrationData": {

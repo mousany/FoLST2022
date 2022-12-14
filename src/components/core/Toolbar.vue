@@ -39,7 +39,7 @@
         to="/"
         class="google-font grey--text text--darken-2"
         style="text-decoration: none; font-size: 110%"
-        >FoLST2021</router-link
+        >FoLST2022</router-link
       >
     </v-toolbar-title>
     <v-spacer></v-spacer>
@@ -113,8 +113,8 @@ export default {
       if (navigator.share) {
         navigator
           .share({
-            title: "FoLST2021",
-            url: "https://folst2021.com",
+            title: "FoLST2022",
+            url: "https://folst2022.com",
           })
           .then(() => {
             console.log("Thanks for sharing");

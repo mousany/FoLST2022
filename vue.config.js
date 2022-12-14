@@ -7,7 +7,7 @@ module.exports = {
     "vuetify"
   ],
   pwa: {
-    name: 'FoLST2021',
+    name: 'FoLST2022',
     workboxPluginMode: 'InjectManifest',
     themeColor: '#3F51B5',
     msTileColor: '#3F51B5',
