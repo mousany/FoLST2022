@@ -1,7 +1,7 @@
 [
     {
         "id": "102",
-        "name":"Cheng, Hong",
+        "name":"CHENG, Hong",
         "company": {
             "name":"Center for Excellence in Molecular Cell Science, CAS",
             "designation": ""
@@ -17,7 +17,7 @@
     },
     {
         "id": "103",
-        "name":"Feng, Xinhua",
+        "name":"FENG, Xinhua",
         "company": {
             "name":"Colleage of life sciences, Zhejiang University"
         },
@@ -32,7 +32,7 @@
     },
     {
         "id": "104",
-        "name":"Li, Bing",
+        "name":"LI, Bing",
         "company": {
             "name":"Shanghai Jiao Tong University, School of Medicine",
             "designation":""
@@ -48,7 +48,7 @@
     },
     {
         "id": "105",
-        "name":"Li Yuanning",
+        "name":"LI, Yuanning",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -64,7 +64,7 @@
     },
     {
         "id": "106",
-        "name":"Rong Yikang",
+        "name":"RONG, Yikang",
         "company": {
             "name":"University of South China",
             "designation":""
@@ -80,7 +80,7 @@
     },
     {
         "id": "107",
-        "name":"Shen Wei",
+        "name":"SHEN, Wei",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -96,7 +96,7 @@
     },
     {
         "id": "108",
-        "name":"Wang Liping",
+        "name":"WANG, Liping",
         "company": {
             "designation":"",
             "name":"Institute of Neuroscience, CAS"
@@ -112,7 +112,7 @@
     },
     {
         "id": "109",
-        "name":"Xu Nanjie",
+        "name":"XU, Nanjie",
         "company": {
             "designation":"",
             "name":"Shanghai Jiao Tong University, School of Medicine"
@@ -128,7 +128,7 @@
     },
     {
         "id": "110",
-        "name":"Zeng, Li",
+        "name":"ZENG, Li",
         "company": {
             "designation":"",
             "name":"JING MEDICINE"
@@ -144,7 +144,7 @@
     },
     {
         "id": "111",
-        "name":"Ding Huihua",
+        "name":"DING, Huihua",
         "company": {
             "designation":"",
             "name":"Shanghai Jiao Tong University"
@@ -160,7 +160,7 @@
     },
     {
         "id": "112",
-        "name":"He Xiangwei",
+        "name":"HE, Xiangwei",
         "company": {
             "designation":"",
             "name":"Colleage of life sciences, Zhejiang University"
@@ -176,7 +176,7 @@
     },
     {
         "id": "113",
-        "name":"Li Dali",
+        "name":"LI, Dali",
         "company": {
             "designation":"",
             "name":"East China Normal University"
@@ -192,7 +192,7 @@
     },
     {
         "id": "114",
-        "name":"Liu Bo",
+        "name":"LIU, Bo",
         "company": {
             "designation":"",
             "name":"Institut Pasteur of Shanghai, CAS"
@@ -208,7 +208,7 @@
     },
     {
         "id": "115",
-        "name":"Shao Mengle",
+        "name":"SHAO, Mengle",
         "company": {
             "designation":"",
             "name":"Institut Pasteur of Shanghai, CAS"
@@ -224,7 +224,7 @@
     },
     {
         "id": "116",
-        "name":"Tan Li",
+        "name":"TAN, Li",
         "company": {
             "designation":"",
             "name":"Shanghai Institute of Organic Chemistry, CAS"
@@ -240,7 +240,7 @@
     },
     {
         "id": "117",
-        "name":"Xu Fei",
+        "name":"XU, Fei",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -256,7 +256,7 @@
     },
     {
         "id": "118",
-        "name":"Xu Wenqing",
+        "name":"XU, Wenqing",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -272,7 +272,7 @@
     },
     {
         "id": "119",
-        "name":"Zhang Zhuzhu",
+        "name":"ZHANG, Zhuzhu",
         "company": {
             "designation":"",
             "name":"University of Chicago"
@@ -288,7 +288,7 @@
     },
     {
         "id": "120",
-        "name":"Dong Jiajia",
+        "name":"DONG, Jiajia",
         "company": {
             "designation":"",
             "name":"Shanghai Jiao Tong University"
@@ -304,7 +304,7 @@
     },
     {
         "id": "121",
-        "name":"Ji Hongbin",
+        "name":"JI, Hongbin",
         "company": {
             "designation":"",
             "name":"Shanghai Institute of Biochemistry and Cell Biology, CAS"
@@ -320,7 +320,7 @@
     },
     {
         "id": "122",
-        "name":"Li Pilong",
+        "name":"LI, Pilong",
         "company": {
             "designation":"",
             "name":"Tsinghua University"
@@ -336,7 +336,7 @@
     },
     {
         "id": "123",
-        "name":"Qi Wei",
+        "name":"QI, Wei",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -352,7 +352,7 @@
     },
     {
         "id": "124",
-        "name":"Shao Zhenhua",
+        "name":"SHAO, Zhenhua",
         "company": {
             "designation":"",
             "name":"West China Hospital of Sichuan University"
@@ -368,7 +368,7 @@
     },
     {
         "id": "125",
-        "name":"Tang Nan",
+        "name":"TANG, Nan",
         "company": {
             "designation":"",
             "name":"National Institute of Biological Sciences, Beijing"
@@ -384,7 +384,7 @@
     },
     {
         "id": "126",
-        "name":"Xu Huaqiang",
+        "name":"XU, Huaqiang",
         "company": {
             "designation":"",
             "name":"Shanghai Institute of Materia Medica, CAS"
@@ -400,7 +400,7 @@
     },
     {
         "id": "127",
-        "name":"Ye Dan",
+        "name":"YE, Dan",
         "company": {
             "designation":"",
             "name":"Institutes of Biomedical Sciences, Fudan University"
@@ -416,7 +416,7 @@
     }, 
     {
         "id": "128",
-        "name":"Jiang, Ge",
+        "name":"JIANG, Ge",
         "company": {
             "designation":"",
             "name":"ShanghaiTech University"
@@ -432,7 +432,7 @@
     }, 
     {
         "id": "129",
-        "name":"Liu, Ji-Long",
+        "name":"LIU, Ji-Long",
         "company": {
             "designation":"",
             "name":""
