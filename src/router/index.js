@@ -10,7 +10,7 @@ const routes = [
     name: "Home",
     component: Home,
     meta: {
-      title: "Home | FoLST-ShanghaiTech",
+      title: "Home | FoLST",
       color: "white",
     },
   },
@@ -20,7 +20,7 @@ const routes = [
     component: () =>
       import(/* webpackChunkName: "agenda" */ "../views/Schedule.vue"),
     meta: {
-      title: "Schedule | FoLST-ShanghaiTech",
+      title: "Schedule | FoLST",
       color: "white",
     },
   },
@@ -30,7 +30,7 @@ const routes = [
     component: () =>
       import(/* webpackChunkName: "speakers" */ "../views/Speakers.vue"),
     meta: {
-      title: "Speakers | FoLST-ShanghaiTech",
+      title: "Speakers | FoLST",
       color: "white",
     },
   },
@@ -39,7 +39,16 @@ const routes = [
     name: "OrganisingCommittee",
     component: () => import("../views/OrganisingCommittee.vue"),
     meta: {
-      title: "Organising Committee | FoLST-ShanghaiTech",
+      title: "Organising Committee | FoLST",
+      color: "white",
+    },
+  },
+  {
+    path: "/poster",
+    name: "Poster",
+    component: () => import("../views/Poster.vue"),
+    meta: {
+      title: "Poster | FoLST",
       color: "white",
     },
   },

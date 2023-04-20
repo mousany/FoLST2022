@@ -35,8 +35,8 @@
           Shanghai (NCPSS), School of Biomedical Engineering (BME School),
           Shanghai Clinical Research and Trial Centre (SCRaTC) and Shanghai
           Institute for Advanced Immunochemical Studies (SIAIS). The conference
-          will take place on the campus of ShanghaiTech University (1 Zhongke
-          Road, Pudong, Shanghai 201210, China)
+          will take place on the Conference Centre of ShanghaiTech University (1
+          Zhongke Road, Pudong, Shanghai 201210, China) on 10-12 May 2023.
           <br /><br />
           The purpose of this conference is to provide an opportunity to discuss
           the growing fields of life science and technology in areas such as
@@ -49,16 +49,6 @@
           such a forum we can begin to forge an interactive community of people.
           Your participation would greatly promote this goal.
         </p>
-        <!-- <v-btn
-          dark
-          color="#0005DF"
-          large
-          depressed
-          style="text-transform: capitalize;border-radius:5px;padding:00% 10%;"
-          href="https://feedback.devfestindia.com/"
-          class="google-font mr-3 mb-3"
-          >Feedback</v-btn
-        > -->
 
         <v-btn
           depressed
@@ -69,6 +59,16 @@
           class="google-font mr-3 mb-3"
           target="_blank"
           >Register for the conference</v-btn
+        >
+        <v-btn
+          dark
+          color="#0005DF"
+          large
+          depressed
+          style="text-transform: capitalize;border-radius:5px;"
+          href="./poster"
+          class="google-font mr-3 mb-3"
+          >Poster Abstract Submission</v-btn
         >
       </v-col>
       <v-col md="6" cols="12" class="text-center order-md-2 order-1">
