@@ -1,448 +1,379 @@
 [
     {
         "id": "102",
-        "name":"CHENG, Hong",
+        "name": "CHENG, Hong",
         "company": {
-            "name":"Center for Excellence in Molecular Cell Science, CAS",
+            "name": "Center for Excellence in Molecular Cell Science, CAS",
             "designation": ""
         },
         "image": "CHENG, Hong.jpeg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            115
+            105
         ]
     },
     {
         "id": "103",
-        "name":"FENG, Xinhua",
+        "name": "FENG, Xinhua",
         "company": {
-            "name":"Colleage of life sciences, Zhejiang University"
+            "name": "Zhejiang University"
         },
         "image": "FENG, Xin-Hua.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             109
         ]
     },
     {
         "id": "104",
-        "name":"LI, Bing",
+        "name": "LI, Bing",
         "company": {
-            "name":"Shanghai Jiao Tong University, School of Medicine",
-            "designation":""
+            "name": "Shanghai Jiao Tong University",
+            "designation": ""
         },
         "image": "LI, Bing.jpg",
         "bio": "",
-        "social": {
-
-        },
-        "sessionId": [
-            109
-        ]
-    },
-    {
-        "id": "105",
-        "name":"LI, Yuanning",
-        "company": {
-            "designation":"",
-            "name":"ShanghaiTech University"
-        },
-        "image": "LI, Yuan-Ning.jpg",
-        "bio": "",
-        "social": {
-
-        },
-        "sessionId": [
-            112
-        ]
-    },
-    {
-        "id": "106",
-        "name":"RONG, Yikang",
-        "company": {
-            "name":"University of South China",
-            "designation":""
-        },
-        "image": "",
-        "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             105
         ]
     },
     {
-        "id": "107",
-        "name":"SHEN, Wei",
+        "id": "105",
+        "name": "LI, Yuanning",
         "company": {
-            "designation":"",
-            "name":"ShanghaiTech University"
+            "designation": "",
+            "name": "ShanghaiTech University"
+        },
+        "image": "LI, Yuan-Ning.jpg",
+        "bio": "",
+        "social": {},
+        "sessionId": [
+            111
+        ]
+    },
+    {
+        "id": "106",
+        "name": "RONG, Yikang",
+        "company": {
+            "name": "University of South China",
+            "designation": ""
+        },
+        "image": "",
+        "bio": "",
+        "social": {},
+        "sessionId": [
+            118
+        ]
+    },
+    {
+        "id": "107",
+        "name": "SHEN, Wei",
+        "company": {
+            "designation": "",
+            "name": "ShanghaiTech University"
         },
         "image": "Shen, Wei.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            112
+            111
         ]
     },
     {
         "id": "108",
-        "name":"WANG, Liping",
+        "name": "WANG, Liping",
         "company": {
-            "designation":"",
-            "name":"Institute of Neuroscience, CAS"
+            "designation": "",
+            "name": "Institute of Neuroscience, CAS"
         },
         "image": "WANG, Li-Ping.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            112
+            111
         ]
     },
     {
         "id": "109",
-        "name":"XU, Nanjie",
+        "name": "XU, Nanjie",
         "company": {
-            "designation":"",
-            "name":"Shanghai Jiao Tong University, School of Medicine"
+            "designation": "",
+            "name": "Shanghai Jiao Tong University"
         },
         "image": "XU, Nan-Jie.jpg",
         "bio": "",
-        "social": {
-
+        "social": {},
+        "sessionId": [
+            111
+        ]
+    },
+    {
+        "id": "110",
+        "name": "ZENG, Li",
+        "company": {
+            "designation": "",
+            "name": "Jing Medicine"
         },
+        "image": "ZENG, Li.jpg",
+        "bio": "",
+        "social": {},
         "sessionId": [
             112
         ]
     },
     {
-        "id": "110",
-        "name":"ZENG, Li",
+        "id": "111",
+        "name": "DING, Huihua",
         "company": {
-            "designation":"",
-            "name":"JING MEDICINE"
+            "designation": "",
+            "name": "Shanghai Jiao Tong University"
         },
-        "image": "ZENG, Li.jpg",
+        "image": "Ding, Hui-Hua.png",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             107
         ]
     },
     {
-        "id": "111",
-        "name":"DING, Huihua",
-        "company": {
-            "designation":"",
-            "name":"Shanghai Jiao Tong University"
-        },
-        "image": "Ding, Hui-Hua.png",
-        "bio": "",
-        "social": {
-
-        },
-        "sessionId": [
-            105
-        ]
-    },
-    {
         "id": "112",
-        "name":"HE, Xiangwei",
+        "name": "HE, Xiangwei",
         "company": {
-            "designation":"",
-            "name":"Colleage of life sciences, Zhejiang University"
+            "designation": "",
+            "name": "Zhejiang University"
         },
         "image": "HE, Xiang-Wei.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            115
+            112
         ]
     },
     {
         "id": "113",
-        "name":"LI, Dali",
+        "name": "LI, Dali",
         "company": {
-            "designation":"",
-            "name":"East China Normal University"
+            "designation": "",
+            "name": "East China Normal University"
         },
         "image": "LI, Da-Li.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            115
+            112
         ]
     },
     {
         "id": "114",
-        "name":"LIU, Bo",
+        "name": "LIU, Bo",
         "company": {
-            "designation":"",
-            "name":"Institut Pasteur of Shanghai, CAS"
+            "designation": "",
+            "name": "Institut Pasteur of Shanghai, CAS"
         },
         "image": "LIU, Bo.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            116
+            109
         ]
     },
     {
         "id": "115",
-        "name":"SHAO, Mengle",
+        "name": "SHAO, Mengle",
         "company": {
-            "designation":"",
-            "name":"Institut Pasteur of Shanghai, CAS"
+            "designation": "",
+            "name": "Institut Pasteur of Shanghai, CAS"
         },
         "image": "SHAO, Meng-Le.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            116
+            109
         ]
     },
     {
         "id": "116",
-        "name":"TAN, Li",
+        "name": "TAN, Li",
         "company": {
-            "designation":"",
-            "name":"Shanghai Institute of Organic Chemistry, CAS"
+            "designation": "",
+            "name": "Shanghai Institute of Organic Chemistry, CAS"
         },
         "image": "TAN, Li.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             107
         ]
     },
     {
         "id": "117",
-        "name":"XU, Fei",
+        "name": "XU, Fei",
         "company": {
-            "designation":"",
-            "name":"ShanghaiTech University"
+            "designation": "",
+            "name": "ShanghaiTech University"
         },
         "image": "XU, Fei.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            111
+            116
         ]
     },
     {
         "id": "118",
-        "name":"XU, Wenqing",
+        "name": "XU, Wenqing",
         "company": {
-            "designation":"",
-            "name":"ShanghaiTech University"
+            "designation": "",
+            "name": "ShanghaiTech University"
         },
         "image": "XU, Wen-Qing.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            111
+            116
         ]
     },
     {
         "id": "119",
-        "name":"ZHANG, Zhuzhu",
+        "name": "ZHANG, Zhuzhu",
         "company": {
-            "designation":"",
-            "name":"University of Chicago"
+            "designation": "",
+            "name": "University of Chicago"
         },
         "image": "ZHANG, Zhu-Zhu.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             112
         ]
     },
     {
         "id": "120",
-        "name":"DONG, Jiajia",
+        "name": "DONG, Jiajia",
         "company": {
-            "designation":"",
-            "name":"Shanghai Jiao Tong University"
+            "designation": "",
+            "name": "Shanghai Jiao Tong University"
         },
         "image": "DONG, Jia-Jia.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             107
         ]
     },
     {
         "id": "121",
-        "name":"JI, Hongbin",
+        "name": "JI, Hongbin",
         "company": {
-            "designation":"",
-            "name":"Shanghai Institute of Biochemistry and Cell Biology, CAS"
+            "designation": "",
+            "name": "Center for Excellence in Molecular Cell Science, CAS"
         },
         "image": "JI, Hong-Bin.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             105
         ]
     },
     {
         "id": "122",
-        "name":"LI, Pilong",
+        "name": "LI, Pilong",
         "company": {
-            "designation":"",
-            "name":"Tsinghua University"
+            "designation": "",
+            "name": "Tsinghua University"
         },
         "image": "LI, Pi-Long.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            109
+            116
         ]
     },
     {
         "id": "123",
-        "name":"QI, Wei",
+        "name": "QI, Wei",
         "company": {
-            "designation":"",
-            "name":"ShanghaiTech University"
+            "designation": "",
+            "name": "ShanghaiTech University"
         },
         "image": "QI，Wei.png",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             107
         ]
     },
     {
         "id": "124",
-        "name":"SHAO, Zhenhua",
+        "name": "SHAO, Zhenhua",
         "company": {
-            "designation":"",
-            "name":"West China Hospital of Sichuan University"
+            "designation": "",
+            "name": "West China Hospital of Sichuan University"
         },
         "image": "SHAO, Zhen-Hua.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            111
+            116
         ]
     },
     {
         "id": "125",
-        "name":"TANG, Nan",
+        "name": "TANG, Nan",
         "company": {
-            "designation":"",
-            "name":"National Institute of Biological Sciences, Beijing"
+            "designation": "",
+            "name": "National Institute of Biological Sciences"
         },
         "image": "TANG, Nan.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
-            105
-        ]
-    },
-    {
-        "id": "126",
-        "name":"XU, Huaqiang",
-        "company": {
-            "designation":"",
-            "name":"Shanghai Institute of Materia Medica, CAS"
-        },
-        "image": "XU, Eric.jpg",
-        "bio": "",
-        "social": {
-
-        },
-        "sessionId": [
-            111
+            118
         ]
     },
     {
         "id": "127",
-        "name":"YE, Dan",
+        "name": "YE, Dan",
         "company": {
-            "designation":"",
-            "name":"Institutes of Biomedical Sciences, Fudan University"
+            "designation": "",
+            "name": "Fudan University"
         },
         "image": "YE, Dan.jpg",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             109
         ]
-    }, 
+    },
     {
         "id": "128",
-        "name":"JIANG, Ge",
+        "name": "JIANG, Ge",
         "company": {
-            "designation":"",
-            "name":"ShanghaiTech University"
+            "designation": "",
+            "name": "ShanghaiTech University"
         },
         "image": "jiangge.webp",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
             103
         ]
-    }, 
+    },
     {
         "id": "129",
-        "name":"LIU, Ji-Long",
+        "name": "LIU, Ji-Long",
         "company": {
-            "designation":"",
-            "name":"ShanghaiTech University"
+            "designation": "",
+            "name": "ShanghaiTech University"
         },
         "image": "liujilong.webp",
         "bio": "",
-        "social": {
-
-        },
+        "social": {},
         "sessionId": [
+            104,
             110
         ]
     }

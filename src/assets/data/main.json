@@ -1,5 +1,5 @@
 {
-    "eventname": "FoLST2022",
+    "eventname": "FoLST",
     "date": "",
     "time": "",
     "badgeurl": "https://badge.devfestindia.com/",
@@ -10,11 +10,11 @@
     "stats": [
         {
             "name": "Research Institutes",
-            "count": "17+"
+            "count": "16+"
         },
         {
             "name": "Speakers",
-            "count": "26+"
+            "count": "25+"
         },
         {
             "name": "Scientific Sessions",
@@ -22,14 +22,15 @@
         },
         {
             "name": "Days Full of Fun",
-            "count": "3+"
+            "count": "3"
         }
     ],
     "registrationData": {
         "twittershare": "https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdevfestindia.com&ref_src=twsrc%5Etfw&text=Hi%20%23Devs%2C%0A%0AI%20registered%20to%20attend%20India%27s%20largest%20developer%20conclave%20-%20%22DevFest%20India%22.%20There%20are%20some%20amazing%20sessions%20by%20expert%20speakers%20and%20you%20can%20join%20me%20now%21%0A%0ARegister%20at%3A%20https%3A%2F%2Fdevfestindia.com%2F%0A%0A%23DevFestIndia%20%23DevFest%20%40DevFestIndia%20%20",
         "facebookshare": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevfestindia.com%2F&quote=Hi%20%23Devs%2C%0A%0AI%20registered%20to%20attend%20India%27s%20largest%20developer%20conclave%20-%20%22DevFest%20India%22.%20There%20are%20some%20amazing%20sessions%20by%20expert%20speakers%20and%20you%20can%20join%20me%20now%21%0A%0ARegister%20here%3A%20https%3A%2F%2Fdevfestindia.com%2F%0A%0A%23DevFestIndia%20%23DevFest"
     },
-    "theme": [{
+    "theme": [
+        {
             "name": "Mobile",
             "content": "We will  build a clone of BookMyShow App using UI basics, loading dynamic content from the server and how to make the app available run offline.",
             "img": "Mobile.svg"

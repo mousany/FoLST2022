@@ -1,74 +1,75 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Vue from "vue";
+import VueRouter from "vue-router";
+import Home from "../views/Home.vue";
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
-  const routes = [
+const routes = [
   {
-    path: '/',
-    name: 'Home',
+    path: "/",
+    name: "Home",
     component: Home,
     meta: {
-      title: 'Home | FoLST2022',
-      color: 'white'
-    }
+      title: "Home | FoLST-ShanghaiTech",
+      color: "white",
+    },
   },
   {
-    path: '/schedule',
-    name: 'Schedule',
-    component: () => import(/* webpackChunkName: "agenda" */ '../views/Schedule.vue'),
+    path: "/schedule",
+    name: "Schedule",
+    component: () =>
+      import(/* webpackChunkName: "agenda" */ "../views/Schedule.vue"),
     meta: {
-      title: 'Schedule | FoLST2022',
-      color: 'white'
-    }
+      title: "Schedule | FoLST-ShanghaiTech",
+      color: "white",
+    },
   },
   {
-    path: '/speakers',
-    name: 'Speakers',
-    component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue'),
+    path: "/speakers",
+    name: "Speakers",
+    component: () =>
+      import(/* webpackChunkName: "speakers" */ "../views/Speakers.vue"),
     meta: {
-      title: 'Speakers | FoLST2022',
-      color: 'white'
-    }
+      title: "Speakers | FoLST-ShanghaiTech",
+      color: "white",
+    },
   },
   {
-    path: '/OC',
-    name: 'OrganisingCommittee',
-    component: () => import('../views/OrganisingCommittee.vue'),
+    path: "/OC",
+    name: "OrganisingCommittee",
+    component: () => import("../views/OrganisingCommittee.vue"),
     meta: {
-      title: 'Organising Committee | FoLST2022',
-      color: 'white'
-    }
+      title: "Organising Committee | FoLST-ShanghaiTech",
+      color: "white",
+    },
   },
   {
-    path: '*',
-    name: 'redirect',
+    path: "*",
+    name: "redirect",
     redirect: {
-      path: '/'
+      path: "/",
     },
     meta: {
       title: `Redirect `,
       color: "white",
-    }
+    },
   },
-
-]
+];
 
 const router = new VueRouter({
-  mode: 'history',
+  mode: "history",
   base: process.env.BASE_URL,
   routes,
   scrollBehavior() {
     return { x: 0, y: 0 };
   },
-})
+});
 
 router.beforeEach((to, from, next) => {
   if (to.meta.title) {
-    document.title = to.meta.title
+    document.title = to.meta.title;
   }
-  next()
-})
+  next();
+});
 
-export default router
+export default router;

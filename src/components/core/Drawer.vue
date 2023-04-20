@@ -1,10 +1,10 @@
 <template>
-<!-- {{mainData.EventName || ""}} -->
+  <!-- {{mainData.EventName || ""}} -->
   <v-navigation-drawer v-model="drawer" app width="300px" temporary>
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="google-font py-1" style="font-size:130%">
-          FoLST2022
+          FoLST
         </v-list-item-title>
       </v-list-item-content>
     </v-list-item>
@@ -36,7 +36,7 @@
 <script>
 // import mainData from "@/assets/data/about.json";
 import { mapGetters, mapMutations } from "vuex";
-import register from "@/assets/data/registration.json"
+import register from "@/assets/data/registration.json";
 
 export default {
   data: () => ({
@@ -50,8 +50,8 @@ export default {
       },
       set(val) {
         this.setDrawer(val);
-      }
-    }
+      },
+    },
   },
   methods: {
     ...mapMutations(["setDrawer"]),
@@ -68,7 +68,7 @@ export default {
       if (item.to || !item.href) return;
       this.$vuetify.goTo(item.href);
       this.setDrawer(false);
-    }
-  }
+    },
+  },
 };
 </script>

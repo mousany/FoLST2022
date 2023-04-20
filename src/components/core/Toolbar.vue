@@ -39,7 +39,7 @@
         to="/"
         class="google-font grey--text text--darken-2"
         style="text-decoration: none; font-size: 110%"
-        >FoLST2022</router-link
+        >FoLST</router-link
       >
     </v-toolbar-title>
     <v-spacer></v-spacer>
@@ -65,11 +65,7 @@
     <!-- v-if="!(this.$route.name === 'Registration')"  -->
     <!-- <v-btn style="text-transform: capitalize;border-radius:5px;padding:00% 40px;" dark color="#0005DF" class="ml-4 google-font hidden-md-and-down" to="/registration" depressed
       >Register</v-btn> -->
-    <v-btn
-      aria-label="Share Button"
-      icon
-      v-on:click="shareMe"
-    >
+    <v-btn aria-label="Share Button" icon v-on:click="shareMe">
       <v-icon>mdi-share-variant</v-icon>
     </v-btn>
   </v-app-bar>
@@ -78,7 +74,7 @@
 <script>
 // import FDK from "@/config/firebase";
 import { mapGetters, mapMutations } from "vuex";
-import register from "@/assets/data/registration.json"
+import register from "@/assets/data/registration.json";
 
 export default {
   data: () => ({
@@ -93,7 +89,7 @@ export default {
     ...mapMutations(["toggleDrawer"]),
     onClick(e, item) {
       e.stopPropagation();
-      if(item.to === "/registration") {
+      if (item.to === "/registration") {
         window.open(register.link);
       }
       if (item.to || !item.href) return;
@@ -113,7 +109,7 @@ export default {
       if (navigator.share) {
         navigator
           .share({
-            title: "FoLST2022",
+            title: "FoLST-ShanghaiTech",
             url: "https://folst2022.com",
           })
           .then(() => {

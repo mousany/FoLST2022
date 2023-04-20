@@ -16,7 +16,7 @@
               color: #0005df;
             "
           >
-            Schedule
+            Tentative Schedule
           </p>
           <v-tabs
             v-model="model"
@@ -25,9 +25,9 @@
             color="#0005DF"
             slider-color="#0005DF"
           >
-            <v-tab href="#day1"> December 21 </v-tab>
-            <v-tab href="#day2"> December 22 </v-tab>
-            <v-tab href="#day3"> December 23 </v-tab>
+            <v-tab href="#day1"> May 10 </v-tab>
+            <v-tab href="#day2"> May 11 </v-tab>
+            <v-tab href="#day3"> May 12 </v-tab>
           </v-tabs>
         </v-col>
       </v-row>
@@ -56,7 +56,6 @@
               <v-container>
                 <v-row>
                   <v-col>
-
                     <ScheduleDetails :data="ScheduleData[1]" />
                   </v-col>
                 </v-row>
@@ -69,7 +68,6 @@
               <v-container>
                 <v-row>
                   <v-col>
-
                     <ScheduleDetails :data="ScheduleData[2]" />
                   </v-col>
                 </v-row>
@@ -88,7 +86,7 @@ import ScheduleData from "@/assets/data/schedule.json";
 export default {
   name: "",
   components: {
-    ScheduleDetails
+    ScheduleDetails,
   },
   data: () => ({
     model: "day1",
@@ -106,7 +104,7 @@ export default {
 };
 </script>
 
-<style >
+<style>
 .row-border-white {
   border-bottom: 1px solid #e0e0e0;
 }
@@ -120,7 +118,7 @@ export default {
 </style>
 
 <style scoped>
-  a{
-    /* color:black */
-  }
+a {
+  /* color:black */
+}
 </style>

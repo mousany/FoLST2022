@@ -1,265 +1,299 @@
 [
     {
         "id": "101",
-        "slide":"",
-        "title":"Registration",
-        "description":"Registration",
+        "slide": "",
+        "title": "Registration",
+        "description": "Registration",
         "track": "General",
         "link": "",
         "format": "Day 1",
         "date": "",
-        "chairs": "",
-        "speakers": [
-            
-        ]
+        "speakers": []
     },
     {
         "id": "102",
-        "slide":"",
-        "title":"Posters Session",
-        "description":"Posters Session",
+        "slide": "",
+        "title": "Posters Session",
+        "description": "Posters Session",
         "track": "General",
         "link": "",
         "format": "Day 1",
         "date": "",
-        "chairs": "Guan Jisong & Zhao Suwen",
-        "speakers": [
-            
-        ]
+        "speakers": []
     },
     {
         "id": "103",
-        "slide":"",
-        "title":"Opening Remarks",
-        "description":"Opening remarks",
+        "slide": "",
+        "title": "Opening Remarks",
+        "description": "Opening remarks",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "",
         "speakers": [
             128
         ]
     },
     {
         "id": "104",
-        "slide":"",
-        "title":"Introduction to life science complex @ShanghaiTech",
-        "description":"Introduction to life science complex @ShanghaiTech",
+        "slide": "",
+        "title": "Introduction to life science complex @ShanghaiTech",
+        "description": "Introduction to life science complex @ShanghaiTech",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "",
         "speakers": [
             129
         ]
     },
     {
         "id": "105",
-        "slide":"",
-        "title":"Developmental and Regenerative Biology",
-        "description":"08:50-10:10 Session I: Developmental and Regenerative Biology\n08:50-09:10 [T01] DING, Huihua | From biobank to biomarker - bridging the gap between bench and bedside in SLE\n09:10-09:30 [T02] JI, Hongbin | Therapeutic targeting Mevalonate-Geranylgeranyl Diphosphate Pathway with Statins Overcomes Chemotherapy-resistance in Small Cell Lung Cancer\n09:30-09:50 [T03] RONG, Yikang | The biological function of a conserved but poorly understood RNA modification\n09:50-10:10 [T04] TANG, Nan | The driving force of alveolar development, regeneration, and fibrosis",
+        "slide": "",
+        "title": "Molecular and Cellular Biology",
+        "description": "08:50-9:50 Session I: Molecular and Cellular Biology\n08:50-09:10 [T01] CHENG, Hong | Nuclear RNA sorting, from a view of nuclear speckles\n09:10-09:30 [T02] JI, Hongbin | Therapeutic targeting mevalonate-geranylgeranyl diphosphate pathway with statins overcomes chemotherapy-resistance in small cell lung cancer\n09:30-09:50 [T03] LI, Bing | Functional relevance of transcription condensates",
         "link": "",
         "track": "General",
         "format": "Day 2",
         "date": "",
-        "chairs": "Zhu Chouwen & Zhu Huanhu",
         "speakers": [
-            111, 121, 106, 125
+            102,
+            121,
+            104
         ]
     },
     {
         "id": "106",
-        "slide":"",
-        "title":"Tea Break",
-        "description":"Tea break",
+        "slide": "",
+        "title": "Tea Break",
+        "description": "Tea break",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "",
-        "speakers": [
-            
-        ]
+        "speakers": []
     },
     {
         "id": "107",
-        "slide":"",
-        "title":"Biomedicine and Pharmacology",
-        "description":"10:30-11:50 Session II: Biomedicine and Pharmacology\n10:30-10:50 [T05] DONG, Jiajia | 一种可预测的，高通量的合成方法\n10:50-11:10 [T06] QI, Wei | Targeting PRC2 for cancer treatment\n11:10-11:30 [T07] TAN, Li | Development and application of novel covalent inhibitors using arsenous warheads\n11:30-11:50 [T08] ZENG, Li | The Story of Clinical Candidate HJM353: A Potent, Selective and Orally Bioavailable Embryonic Ectoderm Development (EED) Inhibitor with Robust Anti-tumor Activities",
+        "slide": "",
+        "title": "Biomedicine and Pharmacology",
+        "description": "10:10-11:30 Session II: Biomedicine and Pharmacology\n10:10-10:30 [T04] DING, Huihua | From biobank to biomarker - bridging the gap between bench and bedside in SLE\n10:30-10:50 [T05] DONG, Jiajia | 一种可预测的，高通量的合成方法\n10:50-11:10 [T06] QI, Wei | Dissecting and targeting PRC2 network in cancer\n11:10-11:30 [T07] TAN, Li | Development and application of novel covalent inhibitors using arsenous warheads",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "Shen Dinggang & Zhao, Jian",
         "speakers": [
-            120, 123, 116, 110
+            111,
+            120,
+            123,
+            116
         ]
     },
     {
-        "id": "108",
-        "slide":"",
-        "title":"Lunch",
-        "description":"Lunch",
+        "id": "120",
+        "slide": "",
+        "title": "Company Report",
+        "description": "11:30-11:45 [T08]: Company Report",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "",
-        "speakers": [
-
-        ]
+        "speakers": []
+    },
+    {
+        "id": "108",
+        "slide": "",
+        "title": "Lunch",
+        "description": "Lunch",
+        "track": "General",
+        "link": "",
+        "format": "Day 2",
+        "date": "",
+        "speakers": []
     },
     {
         "id": "109",
         "slide": "",
-        "title":"Molecular and Cellular Biology",
-        "description":"13:20-14:55 Session III: Molecular and Cellular Biology\n13:20-13:40 [T09] FENG, Xinhua | TGF-β Signaling in Cancer: Good, Bad and Ugly\n13:40-14:00 [T10] LI, Bing | Functional Relevance of Transcription Condensates\n14:00-14:20 [T11] LI, Pilong | Programming cell-surface signaling\n14:20-14:40 [T12] YE, Dan | Epigenetics links intermediary metabolism and gene regulation\n14:40-14:55 [T13] | 公司报告",
+        "title": "Immunology and Metabolism",
+        "description": "13:30-14:50 Session III: Immunology and Metabolism\n13:30-13:50 [T09] FENG, Xinhua | TGF-β signaling in cancer: good, bad and ugly\n13:50-14:10 [T10] LIU, Bo | Intracellular trafficking of nucleic acid-sensing TLRs and inflammation regulation\n14:10-14:30 [T11] SHAO, Mengle | Targeting adipose progenitors in the treatment of obesity and associated diseases\n14:30-14:50 [T12] YE, Dan | The role of immunometabolite itaconate in host defense and inflammation",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "Liu, Rujuan & Liu, Zhijie",
         "speakers": [
-            103, 104, 122, 127
+            103,
+            114,
+            115,
+            127
         ]
     },
     {
+        "id": "121",
+        "slide": "",
+        "title": "Company Report",
+        "description": "14:50-15:05 [T13]: Company Report",
+        "track": "General",
+        "link": "",
+        "format": "Day 2",
+        "date": "",
+        "speakers": []
+    },
+    {
         "id": "110",
-        "slide":"",
-        "title":"Tea Break",
-        "description":"Tea break",
+        "slide": "",
+        "title": "Tea Break",
+        "description": "Tea break",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
         "timeDuration": "",
-        "speakers": [
-        
-        ]
+        "speakers": []
     },
     {
         "id": "111",
-        "slide":"",
-        "title":"Structural Biology",
-        "description":"15:15-16:50 Session IV: Structural Biology\n15:15-15:35 [T14] SHAO, Zhenhua | Allosteric modulation of GPCR signal transduction by small molecules\n15:35-15:55 [T15] Xu, Eric | Hormone receptors: structures, mechanisms and drug discovery\n15:55-16:15 [T16] XU, Fei | A framework for class-A GPCR dimerization\n16:15-16:35 [T17] XU, Wenqing | Controlling Wnt signaling for anti-cancer therapy and regeneration medicine\n16:35-16:50 [T18] | 公司报告",
+        "slide": "",
+        "title": "Neuroscience",
+        "description": "15:25-16:45 Session IV: Neuroscience\n15:25-15:45 [T14] LI, Yuanning | Neural coding and computations underlying natural speech perception across languages\n15:45-16:05 [T15] SHEN, Wei | Central control of body temperature and energy expenditure\n16:05-16:25 [T16] WANG, Liping | Representation of sequences in human and monkey brains\n16:25-16:45 [T17] XU, Nanjie | Calcium dyshomeostasis and synapse loss in early-stage Alzheimer’s disease",
         "track": "General",
         "link": "",
         "format": "Day 2",
         "date": "",
-        "chairs": "Shui, Wenjing & Yang, Haitao",
         "speakers": [
-            124, 126, 117, 118
+            105,
+            107,
+            108,
+            109
         ]
     },
     {
         "id": "112",
-        "slide":"",
-        "title":"Neuroscience",
-        "description":"08:30-10:25 Session V: Neuroscience\n08:30-08:50 [T19] LI, Yuanning | Neural coding and computations underlying natural speech perception across languages\n08:50-09:10 [T20] SHEN, Wei | Central control of body temperature and energy expenditure\n09:10-09:30 [T21] WANG, Liping | Sequence representations in the brain\n09:30-09:50 [T22] XU, Nanjie | Calcium dyshomeostasis and synapse loss in early-stage Alzheimer’s disease\n09:50-10:10 [T23] ZHANG Zhuzhu | Single-cell Studies of Epigenomic Regulations in Brain Circuitry and Disorders\n10:10-10:25 [T24] | 公司报告",
+        "slide": "",
+        "title": "Genomics, Proteomics & Bioinformatics",
+        "description": "08:30-9:50 Session V: Genomics, Proteomics & Bioinformatics\n08:30-08:50 [T18] ZHANG, Zhuzhu | Single-cell Studies of Epigenomic Regulations in Brain Circuitry and Disorders\n08:50-09:10 [T19] HE, Xiangwei | Microhomology-mediated tandem duplications (MTDs) cause genetic instability genome-wide\n09:10-09:30 [T20] LI, Dali | Genome editing for disease modeling and gene therapy\n09:30-09:50 [T21] ZENG, Li | The story of clinical candidate HJM353: A potent, selective and orally bioavailable embryonic ectoderm development (EED) inhibitor with robust anti-tumor activities",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
         "speakers": [
-            105, 107, 108, 109, 119
+            119,
+            112,
+            113,
+            110
         ]
+    },
+    {
+        "id": "122",
+        "slide": "",
+        "title": "Company Report",
+        "description": "09:50-10:05 [T22]: Company Report",
+        "track": "General",
+        "link": "",
+        "format": "Day 3",
+        "date": "",
+        "speakers": []
     },
     {
         "id": "113",
-        "slide":"",
-        "title":"Tea Break",
-        "description":"Tea break",
+        "slide": "",
+        "title": "Tea Break",
+        "description": "Tea break",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
-        "speakers": [
-        ]
+        "speakers": []
     },
     {
         "id": "114",
-        "slide":"",
-        "title":"Flash Talks",
-        "description":"10:45-11:45 Session VI: Flash talks (5 min X 12 talks)",
+        "slide": "",
+        "title": "Flash Talks",
+        "description": "10:25-11:25 Session VI: Flash talks (5 min X 12 talks)",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
-        "chairs": "Zhang, Hui & Zhuang, Min",
-        "speakers": [
-        ]
+        "speakers": []
     },
     {
         "id": "115",
-        "slide":"",
-        "title":"Lunch",
-        "description":"Lunch",
+        "slide": "",
+        "title": "Lunch",
+        "description": "Lunch",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
-        "speakers": [
-        ]
+        "speakers": []
     },
     {
         "id": "116",
-        "slide":"",
-        "title":"Genomics, Proteomics & Bioinformatics",
-        "description":"13:20-13:40 Session VII: Genomics, Proteomics & Bioinformatics\n13:20-13:40 [T25] CHENG, Hong | Nuclear RNA sorting, from a view of nuclear speckles\n13:40-14:00 [T26] HE, Xiangwei | Microhomology-mediated tandem duplications cause genetic instability genome-wide\n14:00-14:20 [T27] LI, Dali | Genome editing for disease modeling and gene therapy\n14:20-14:35 [T28] | 公司报告",
+        "slide": "",
+        "title": "Structural Biology",
+        "description": "13:30-14:50 Session VII: Structural Biology\n13:30-13:50 [T23] LI, Pilong | Programming cell-surface signaling by phase-separation-controlled compartmentalization\n13:50-14:10 [T24] SHAO, Zhenhua | Allosteric modulation of GPCR signal transduction by small molecules\n14:10-14:30 [T25] XU, Fei | A framework for class-A GPCR dimerization\n14:30-14:50 [T26] | Controlling Wnt signaling for anti-cancer therapy and regeneration medicine",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
         "speakers": [
-            102, 112, 113
+            122,
+            124,
+            117,
+            118
         ]
+    },
+    {
+        "id": "123",
+        "slide": "",
+        "title": "Company Report",
+        "description": "14:50-15:05 [T27]: Company Report",
+        "track": "General",
+        "link": "",
+        "format": "Day 3",
+        "date": "",
+        "speakers": []
     },
     {
         "id": "117",
-        "slide":"",
-        "title":"Tea Break",
-        "description":"Tea break",
+        "slide": "",
+        "title": "Tea Break",
+        "description": "Tea break",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
-        "speakers": [
-        ]
+        "speakers": []
     },
     {
         "id": "118",
-        "slide":"",
-        "title":"Immunology and Metabolism",
-        "description":"14:55-15:55 Session VIII: Immunology and Metabolism\n14:55-15:15 [T29] LIU, Bo | Intracellular Trafficking of Nucleic Acid-sensing TLRs and Inflammation Regulation\n15:15-15:35 [T30] SHAO, Mengle | Targeting Adipose Progenitors in the Treatment of Obesity and Associated Diseases\n15:35-15:55 | Awards",
+        "slide": "",
+        "title": "Developmental and Regenerative Biology",
+        "description": "15:25-16:25 Session VIII: Developmental and Regenerative Biology\n15:25-15:45 [T28] RONG, Yikang | The biological function of a conserved but poorly understood RNA modification\n15:45-16:05 [T29] TANG, Nan | The driving force of alveolar development, regeneration, and fibrosis\n16:05-16:25 | Awards",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
         "speakers": [
-            114, 115
+            106,
+            125
         ]
-    }, 
+    },
     {
         "id": "119",
-        "slide":"",
-        "title":"Closing Remarks",
-        "description":"",
+        "slide": "",
+        "title": "Closing Remarks",
+        "description": "",
         "track": "General",
         "link": "",
         "format": "Day 3",
         "date": "",
         "timeDuration": "",
-        "speakers": [
-
-        ]
+        "speakers": []
     }
-
 ]
