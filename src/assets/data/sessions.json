@@ -19,6 +19,7 @@
         "link": "",
         "format": "Day 1",
         "date": "",
+        "chairs": "GUAN, Jisong & ZHAO, Suwen",
         "speakers": []
     },
     {
@@ -54,6 +55,7 @@
         "description": "08:50-9:50 Session I: Molecular and Cellular Biology\n08:50-09:10 [T01] CHENG, Hong | Nuclear RNA sorting, from a view of nuclear speckles\n09:10-09:30 [T02] JI, Hongbin | Therapeutic targeting mevalonate-geranylgeranyl diphosphate pathway with statins overcomes chemotherapy-resistance in small cell lung cancer\n09:30-09:50 [T03] LI, Bing | Functional relevance of transcription condensates",
         "link": "",
         "track": "General",
+        "chairs": "LIU, Rujuan & ZHAO, Suwen",
         "format": "Day 2",
         "date": "",
         "speakers": [
@@ -81,6 +83,7 @@
         "track": "General",
         "link": "",
         "format": "Day 2",
+        "chairs": "LI, Yuanning & ZHAO, Jian",
         "date": "",
         "speakers": [
             111,
@@ -119,6 +122,7 @@
         "track": "General",
         "link": "",
         "format": "Day 2",
+        "chairs": "LIU, Yanfen & HORNG, Tiffany",
         "date": "",
         "speakers": [
             103,
@@ -157,6 +161,7 @@
         "description": "15:25-16:45 Session IV: Neuroscience\n15:25-15:45 [T14] LI, Yuanning | Neural coding and computations underlying natural speech perception across languages\n15:45-16:05 [T15] SHEN, Wei | Central control of body temperature and energy expenditure\n16:05-16:25 [T16] WANG, Liping | Representation of sequences in human and monkey brains\n16:25-16:45 [T17] XU, Nanjie | Calcium dyshomeostasis and synapse loss in early-stage Alzheimer’s disease",
         "track": "General",
         "link": "",
+        "chairs": "GUAN Jisong & HU, Ji",
         "format": "Day 2",
         "date": "",
         "speakers": [
@@ -174,6 +179,7 @@
         "track": "General",
         "link": "",
         "format": "Day 3",
+        "chairs": "CHEN, Jia & SUN, Bo",
         "date": "",
         "timeDuration": "",
         "speakers": [
@@ -212,6 +218,7 @@
         "title": "Flash Talks",
         "description": "10:25-11:25 Session VI: Flash talks (5 min X 12 talks)",
         "track": "General",
+        "chairs": "ZHANG, Hui & ZHUANG, Min",
         "link": "",
         "format": "Day 3",
         "date": "",
@@ -237,6 +244,7 @@
         "track": "General",
         "link": "",
         "format": "Day 3",
+        "chairs": "SHUI, Wenjing & YANG, Bei",
         "date": "",
         "timeDuration": "",
         "speakers": [
@@ -278,6 +286,7 @@
         "link": "",
         "format": "Day 3",
         "date": "",
+        "chairs": "ZHU, Chouwen & ZHU, Huanhu",
         "timeDuration": "",
         "speakers": [
             106,
