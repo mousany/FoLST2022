@@ -112,22 +112,17 @@
             },
             {
                 "startTime": "14:50",
-                "endTime": "15:05",
-                "session": 123
-            },
-            {
-                "startTime": "15:05",
-                "endTime": "15:25",
+                "endTime": "15:10",
                 "session": 117
             },
             {
-                "startTime": "15:25",
-                "endTime": "16:25",
+                "startTime": "15:10",
+                "endTime": "16:10",
                 "session": 118
             },
             {
-                "startTime": "16:25",
-                "endTime": "16:35",
+                "startTime": "16:10",
+                "endTime": "16:30",
                 "session": 119
             }
         ]
